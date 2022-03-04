@@ -19,6 +19,6 @@ entries:
     - https://github.com/mccutchen/go-httpbin
     type: application
     urls:
-    - https://matheusfv.dev/charts/httpbin-0.1.0.tgz
+    - https://matheusfm.dev/charts/httpbin-0.1.0.tgz
     version: 0.1.0
 generated: "2022-03-04T14:12:22.830901871-03:00"
